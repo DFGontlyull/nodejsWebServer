@@ -1,0 +1,4 @@
+module.exports = {
+    'secret': 'SeCrEtKeYfOrHaShInG',
+    'mongodbUri': 'mongodb://tester:tester@210.119.105.223:27017/authdb2'
+}
